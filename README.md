@@ -4,6 +4,12 @@ So stellt ihr dem Nutzer eurer App mithilfe des Showcase Views eine besondere Fu
 - <a href="https://youtu.be/L1had-GiBkM" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
+Gradle-Zeile für die Library:
+````
+compile 'com.github.amlcurran.showcaseview:library:5.0.0'
+````
+
+
 ---
 
 Wichtige Dateien: 
