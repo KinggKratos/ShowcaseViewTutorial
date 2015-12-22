@@ -15,6 +15,7 @@ compile 'com.github.amlcurran.showcaseview:library:5.0.0'
 Wichtige Dateien: 
 - [MainActivity.java](/app/src/main/java/de/derandroidpro/showcaseviewtutorial/MainActivity.java)
 - [Layout.xml](/app/src/main/res/layout/activity_main.xml)
+- [Styles.xml](https://github.com/derAndroidPro/ShowcaseViewTutorial/blob/master/app/src/main/res/values/styles.xml)
 
 ---
 
